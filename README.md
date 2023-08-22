@@ -1,7 +1,7 @@
 In this project, I looked to model the likelihood of students moving between campuses in anticipation of a campus closure due to foreseen campus upgrades.  
 
 The first step of the project was exploratory data analysis in PowerBI to determine if there were any factors which affected how far students were willing to travel in order to attend a given campus, such as ethnicity, gender, course modality, and the ccourse being taught.  The EDA was also used to look at overall trends in campus enrollment, such as the number of students and where (geographically) students were coming from.
-The PowerBI visualization can be accessed here:  <iframe title="TravelByStudents" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=448c3286-cd90-47a0-a5c7-c83b819e6f77&autoAuth=true&ctid=16cc8ad9-84fe-481d-b9b0-48e7758c41aa" frameborder="0" allowFullScreen="true"></iframe>
+The PowerBI visualization can be accessed here: https://app.powerbi.com/reportEmbed?reportId=448c3286-cd90-47a0-a5c7-c83b819e6f77&autoAuth=true&ctid=16cc8ad9-84fe-481d-b9b0-48e7758c41aa
 
 Tavel distances were estimated by converting student zip codes to latitude/longitude pairs and compairing them to the latitude and longitude of the given campus.  Data was pooled over a 10 year period.
 
