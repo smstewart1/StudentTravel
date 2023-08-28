@@ -24,4 +24,4 @@ Using a log normal distribution, the next step was to model how many students wo
 The distribution of students was estimated using historic data, shown below
 ![image](https://github.com/smstewart1/StudentTravel/assets/107202785/1fa93724-295d-47dc-a0fb-75fc14e7db94)
 
-This is an on going project, and as of this revision, the next step is to use historic enrollment data to estimate the demand for each courses on the old campus, then use the models built here to estimate how many of those students will choose to enrollment on a different campus.  
+The models were then applied to determine the number of students who would to the other campuses, and it was found that most students would simply choose not to go to another campus.  Because of this concern, alternative options for course offerings needed to be considered.
